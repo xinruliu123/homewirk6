@@ -1,8 +1,0 @@
-
-altair == 4.1.0
-numpy ==1.20.1 
-pandas=1.2.4 
-streamlit==1.2.0
-sklearn==0.24.1
-
-
